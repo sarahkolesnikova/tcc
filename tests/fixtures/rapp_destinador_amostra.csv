@@ -1,0 +1,602 @@
+ID Gerador;UF;Município;Ano da destinação;Descrição do resíduo;Quantidade;Unidade;Tipo de destinação
+G0000;MG;Município exemplo;2021;Resíduos infectantes - Grupo A;11,380;t;Aterro sanitário
+G0001;SP;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;1,769;t;Compostagem
+G0002;SP;Município exemplo;2021;Lodo de ETE - tratamento de esgoto;346,174;t;Aterro controlado
+G0003;RS;Município exemplo;2024;Cacos de vidro;38,207;t;Aterro sanitário
+G0004;PR;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;292995,256;kg;Reciclagem
+G0005;MG;Município exemplo;2022;Sucata de aço e alumínio;218,571;t;Reciclagem
+G0006;RS;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;0,337;t;Aterro sanitário
+G0007;GO;Município exemplo;2024;Resíduos de portos;62,195;t;Incineração
+G0008;MG;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;0,934;t;Compostagem
+G0009;PR;Município exemplo;2021;Resíduos de aeroportos;35,668;t;Tratamento com aproveitamento energético
+G0010;RJ;Município exemplo;2024;Tintas e solventes de obra - Classe D;4,193;t;Incineração
+G0011;PE;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;50,582;t;Incineração
+G0012;PR;Município exemplo;2024;Resíduos de portos;53,451;t;Disposição Final em Lixão
+G0013;PR;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;4,579;t;Tratamento com aproveitamento energético
+G0014;RS;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;0,117;t;Reciclagem
+G0015;BA;Município exemplo;2024;Resíduos de portos;8,129;t;Reciclagem
+G0016;GO;Município exemplo;2024;Perfurocortantes - Grupo E;1,377;t;Reciclagem
+G0017;AM;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;11474,646;kg;Aterro controlado
+G0018;BA;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;789,444;t;Aterro controlado
+G0019;SP;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;11,397;t;Compostagem
+G0020;PA;Município exemplo;2023;Pilhas e baterias;0,770;t;Reciclagem
+G0021;GO;Município exemplo;2024;Pilhas e baterias;1308,516;kg;Aterro sanitário
+G0022;SP;Município exemplo;2022;Perfurocortantes - Grupo E;610,489;kg;Aterro controlado
+G0023;PE;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;59,095;t;Disposição Final em Lixão
+G0024;PE;Município exemplo;2021;Tintas e solventes de obra - Classe D;0,202;t;Disposição Final em Lixão
+G0025;PR;Município exemplo;2023;Resíduos para os quais não há reciclagem ou recuperação - Classe C;52,586;t;Reciclagem
+G0026;GO;Município exemplo;2024;Medicamentos vencidos - produtos químicos - Grupo B;1448,747;kg;Tratamento com aproveitamento energético
+G0027;PR;Município exemplo;2024;Resíduos de portos;30131,151;kg;Incineração
+G0028;RJ;Município exemplo;2021;Papel e papelão ondulado;78,901;t;Incineração
+G0029;PR;Município exemplo;2023;Resíduos de aeroportos;22,270;t;Disposição Final em Lixão
+G0030;BA;Município exemplo;2022;Papel e papelão ondulado;55,287;t;Incineração
+G0031;BA;Município exemplo;2024;Cacos de vidro;49,282;t;Compostagem
+G0032;GO;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;2,206;t;Coprocessamento
+G0033;PE;Município exemplo;2023;Resíduos orgânicos de alimentos;349,336;t;Tratamento com aproveitamento energético
+G0034;PE;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;14,007;t;Compostagem
+G0035;GO;Município exemplo;2023;Resíduos de portos;57,294;t;Aterro sanitário
+G0036;BA;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;50244,280;kg;Aterro controlado
+G0037;PA;Município exemplo;2024;Papel e papelão ondulado;66,787;t;Disposição Final em Lixão
+G0038;RJ;Município exemplo;2022;Perfurocortantes - Grupo E;1120,162;kg;Reciclagem
+G0039;RS;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;169,990;t;Reciclagem
+G0040;SP;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;0,510;t;Aterro sanitário
+G0041;BA;Município exemplo;2021;Resíduos de aeroportos;52965,744;kg;Compostagem
+G0042;PR;Município exemplo;2024;Embalagens PET e plástico filme;27,108;t;Incineração
+G0043;RS;Município exemplo;2024;Sucata de aço e alumínio;29,057;t;Tratamento com aproveitamento energético
+G0044;GO;Município exemplo;2022;Resíduos de aeroportos;10,892;t;Aterro sanitário
+G0045;GO;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;707393,510;kg;Reciclagem
+G0046;MG;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;2,939;t;Tratamento com aproveitamento energético
+G0047;AM;Município exemplo;2024;Cacos de vidro;12287,062;kg;Disposição Final em Lixão
+G0048;GO;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;1,601;t;Disposição Final em Lixão
+G0049;GO;Município exemplo;2024;Resíduos de aeroportos;43,217;t;Coprocessamento
+G0050;AM;Município exemplo;2022;Resíduos de aeroportos;66,022;t;Coprocessamento
+G0051;PE;Município exemplo;2021;Lodo de ETA - tratamento de água;49768,986;kg;Tratamento com aproveitamento energético
+G0052;MG;Município exemplo;2022;Cacos de vidro;26,272;t;Coprocessamento
+G0053;BA;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;0,472;t;Tratamento com aproveitamento energético
+G0054;RJ;Município exemplo;2024;Perfurocortantes - Grupo E;1,330;t;Compostagem
+G0055;PE;Município exemplo;2021;Resíduos de aeroportos;29,459;t;Incineração
+G0056;SP;Município exemplo;2024;Medicamentos vencidos - produtos químicos - Grupo B;0,107;t;Tratamento com aproveitamento energético
+G0057;MG;Município exemplo;2022;Resíduos infectantes - Grupo A;6,257;t;Disposição Final em Lixão
+G0058;PR;Município exemplo;2022;Tintas e solventes de obra - Classe D;0,856;t;Reciclagem
+G0059;PA;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;682,679;t;Coprocessamento
+G0060;MG;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;36,807;t;Incineração
+G0061;PR;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;240,878;t;Disposição Final em Lixão
+G0062;MG;Município exemplo;2023;Resíduos para os quais não há reciclagem ou recuperação - Classe C;48296,087;kg;Compostagem
+G0063;PR;Município exemplo;2022;Tintas e solventes de obra - Classe D;3,739;t;Aterro controlado
+G0064;RJ;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;160,440;t;Disposição Final em Lixão
+G0065;AM;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;58,438;t;Coprocessamento
+G0066;PE;Município exemplo;2021;Rejeitos diversos (outros);91,909;t;Coprocessamento
+G0067;AM;Município exemplo;2024;Embalagens PET e plástico filme;6360,023;kg;Compostagem
+G0068;GO;Município exemplo;2024;Cacos de vidro;56143,928;kg;Aterro controlado
+G0069;PE;Município exemplo;2022;Resíduos de aeroportos;22,929;t;Compostagem
+G0070;RJ;Município exemplo;2021;Sucata de aço e alumínio;164,856;t;Aterro sanitário
+G0071;RJ;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;37,901;t;Aterro controlado
+G0072;RS;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;40,248;t;Coprocessamento
+G0073;GO;Município exemplo;2021;Rejeitos diversos (outros);13,821;t;Coprocessamento
+G0074;BA;Município exemplo;2021;Embalagens PET e plástico filme;44,969;t;Incineração
+G0075;PA;Município exemplo;2021;Rejeitos diversos (outros);47,484;t;Incineração
+G0076;AM;Município exemplo;2021;Resíduos de portos;27,267;t;Compostagem
+G0077;RS;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;16585,952;kg;Aterro controlado
+G0078;MG;Município exemplo;2022;Perfurocortantes - Grupo E;0,053;t;Compostagem
+G0079;RJ;Município exemplo;2023;Perfurocortantes - Grupo E;1,151;t;Tratamento com aproveitamento energético
+G0080;AM;Município exemplo;2022;Sucata de aço e alumínio;22,296;t;Aterro controlado
+G0081;RS;Município exemplo;2022;Resíduos de aeroportos;53,195;t;Aterro sanitário
+G0082;MG;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;2838,471;kg;Incineração
+G0083;GO;Município exemplo;2023;Lodo de ETA - tratamento de água;171,973;t;Compostagem
+G0084;AM;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;432975,731;kg;Disposição Final em Lixão
+G0085;BA;Município exemplo;2022;Resíduos de portos;24940,837;kg;Coprocessamento
+G0086;PA;Município exemplo;2021;Cacos de vidro;44,650;t;Tratamento com aproveitamento energético
+G0087;RS;Município exemplo;2022;Resíduos de portos;82,211;t;Aterro sanitário
+G0088;RS;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;36,383;t;Coprocessamento
+G0089;BA;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;454,882;t;Disposição Final em Lixão
+G0090;GO;Município exemplo;2021;Rejeitos diversos (outros);143,230;t;Tratamento com aproveitamento energético
+G0091;SP;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;8,370;t;Tratamento com aproveitamento energético
+G0092;PR;Município exemplo;2024;Lodo de ETA - tratamento de água;32,175;t;Tratamento com aproveitamento energético
+G0093;RJ;Município exemplo;2023;Resíduos orgânicos de alimentos;459,112;t;Disposição Final em Lixão
+G0094;MG;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;0,441;t;Coprocessamento
+G0095;SP;Município exemplo;2022;Cacos de vidro;30,375;t;Aterro controlado
+G0096;PR;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;856,965;t;Aterro controlado
+G0097;SP;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;288,289;t;Incineração
+G0098;SP;Município exemplo;2023;Resíduos infectantes - Grupo A;10085,418;kg;Compostagem
+G0099;PE;Município exemplo;2024;Embalagens PET e plástico filme;45,922;t;Disposição Final em Lixão
+G0100;PR;Município exemplo;2022;Embalagens PET e plástico filme;102,802;t;Aterro sanitário
+G0101;BA;Município exemplo;2023;Cacos de vidro;58,291;t;Incineração
+G0102;AM;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;709,728;t;Aterro controlado
+G0103;RS;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;3,919;t;Tratamento com aproveitamento energético
+G0104;RJ;Município exemplo;2024;Rejeitos diversos (outros);99,687;t;Reciclagem
+G0105;PA;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;288,057;t;Coprocessamento
+G0106;RJ;Município exemplo;2022;Rejeitos diversos (outros);99,220;t;Disposição Final em Lixão
+G0107;AM;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;13,264;t;Tratamento com aproveitamento energético
+G0108;PA;Município exemplo;2022;Lodo de ETA - tratamento de água;272,815;t;Tratamento com aproveitamento energético
+G0109;AM;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;8100,080;kg;Incineração
+G0110;SP;Município exemplo;2024;Resíduos infectantes - Grupo A;2,946;t;Compostagem
+G0111;PR;Município exemplo;2023;Perfurocortantes - Grupo E;0,633;t;Aterro controlado
+G0112;RJ;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;151,953;t;Incineração
+G0113;GO;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;16,990;t;Aterro controlado
+G0114;RJ;Município exemplo;2021;Rejeitos diversos (outros);170,493;t;Aterro sanitário
+G0115;RS;Município exemplo;2024;Lodo de ETE - tratamento de esgoto;573,419;t;Tratamento com aproveitamento energético
+G0116;GO;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;102,899;t;Tratamento com aproveitamento energético
+G0117;GO;Município exemplo;2021;Tintas e solventes de obra - Classe D;1,946;t;Disposição Final em Lixão
+G0118;BA;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;31186,034;kg;Reciclagem
+G0119;MG;Município exemplo;2021;Rejeitos diversos (outros);192,675;t;Aterro controlado
+G0000;PA;Município exemplo;2023;Resíduos para os quais não há reciclagem ou recuperação - Classe C;18,721;t;Compostagem
+G0001;GO;Município exemplo;2023;Cacos de vidro;47638,745;kg;Coprocessamento
+G0002;AM;Município exemplo;2022;Resíduos infectantes - Grupo A;7,770;t;Tratamento com aproveitamento energético
+G0003;SP;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;10,259;t;Coprocessamento
+G0004;BA;Município exemplo;2024;Resíduos orgânicos de alimentos;254,172;t;Compostagem
+G0005;PA;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;719,019;kg;Incineração
+G0006;BA;Município exemplo;2024;Perfurocortantes - Grupo E;0,313;t;Disposição Final em Lixão
+G0007;PR;Município exemplo;2023;Resíduos orgânicos de alimentos;162,741;t;Compostagem
+G0008;BA;Município exemplo;2024;Tintas e solventes de obra - Classe D;7,625;t;Reciclagem
+G0009;PA;Município exemplo;2021;Lodo de ETE - tratamento de esgoto;730108,880;kg;Reciclagem
+G0010;SP;Município exemplo;2022;Resíduos orgânicos de alimentos;21,578;t;Compostagem
+G0011;MG;Município exemplo;2021;Perfurocortantes - Grupo E;0,685;t;Incineração
+G0012;SP;Município exemplo;2023;Papel e papelão ondulado;51,399;t;Tratamento com aproveitamento energético
+G0013;RJ;Município exemplo;2021;Perfurocortantes - Grupo E;1,262;t;Tratamento com aproveitamento energético
+G0014;MG;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;107288,132;kg;Aterro controlado
+G0015;MG;Município exemplo;2021;Perfurocortantes - Grupo E;0,548;t;Aterro controlado
+G0016;BA;Município exemplo;2023;Resíduos de portos;20,027;t;Tratamento com aproveitamento energético
+G0017;BA;Município exemplo;2024;Medicamentos vencidos - produtos químicos - Grupo B;2,225;t;Aterro controlado
+G0018;PR;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;115,792;t;Aterro sanitário
+G0019;PE;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;54,015;t;Coprocessamento
+G0020;PR;Município exemplo;2021;Embalagens PET e plástico filme;90,080;t;Coprocessamento
+G0021;GO;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;2,431;t;Tratamento com aproveitamento energético
+G0022;GO;Município exemplo;2022;Embalagens PET e plástico filme;109,798;t;Reciclagem
+G0023;RS;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;730,209;t;Reciclagem
+G0024;AM;Município exemplo;2022;Resíduos infectantes - Grupo A;10,349;t;Disposição Final em Lixão
+G0025;SP;Município exemplo;2024;Perfurocortantes - Grupo E;1,134;t;Disposição Final em Lixão
+G0026;MG;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;22,012;t;Aterro controlado
+G0027;GO;Município exemplo;2024;Embalagens PET e plástico filme;75,703;t;Aterro controlado
+G0028;AM;Município exemplo;2021;Papel e papelão ondulado;37,427;t;Compostagem
+G0029;PR;Município exemplo;2023;Rejeitos diversos (outros);62,288;t;Incineração
+G0030;RS;Município exemplo;2022;Resíduos orgânicos de alimentos;225,305;t;Compostagem
+G0031;AM;Município exemplo;2022;Resíduos infectantes - Grupo A;0,871;t;Compostagem
+G0032;SP;Município exemplo;2024;Tintas e solventes de obra - Classe D;5,296;t;Disposição Final em Lixão
+G0033;PR;Município exemplo;2022;Cacos de vidro;50,593;t;Aterro sanitário
+G0034;MG;Município exemplo;2023;Tintas e solventes de obra - Classe D;0,593;t;Compostagem
+G0035;SP;Município exemplo;2021;Resíduos de aeroportos;60,897;t;Coprocessamento
+G0036;SP;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;0,692;t;Reciclagem
+G0037;SP;Município exemplo;2023;Embalagens PET e plástico filme;6,512;t;Compostagem
+G0038;MG;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;549,089;t;Coprocessamento
+G0039;PA;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;239,608;t;Disposição Final em Lixão
+G0040;RJ;Município exemplo;2024;Perfurocortantes - Grupo E;1,003;t;Disposição Final em Lixão
+G0041;PA;Município exemplo;2021;Embalagens PET e plástico filme;50,355;t;Coprocessamento
+G0042;PA;Município exemplo;2021;Rejeitos diversos (outros);150,341;t;Aterro controlado
+G0043;BA;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;1,951;t;Aterro controlado
+G0044;PA;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;723,272;t;Disposição Final em Lixão
+G0045;AM;Município exemplo;2022;Lodo de ETA - tratamento de água;234185,802;kg;Aterro sanitário
+G0046;AM;Município exemplo;2022;Perfurocortantes - Grupo E;0,152;t;Incineração
+G0047;MG;Município exemplo;2021;Sucata de aço e alumínio;142,438;t;Reciclagem
+G0048;PR;Município exemplo;2022;Perfurocortantes - Grupo E;0,746;t;Compostagem
+G0049;RS;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;292,786;t;Aterro sanitário
+G0050;BA;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;54,349;t;Reciclagem
+G0051;AM;Município exemplo;2022;Resíduos orgânicos de alimentos;416,302;t;Compostagem
+G0052;SP;Município exemplo;2021;Perfurocortantes - Grupo E;551,627;kg;Compostagem
+G0053;PA;Município exemplo;2023;Resíduos infectantes - Grupo A;1,501;t;Coprocessamento
+G0054;GO;Município exemplo;2024;Pilhas e baterias;1,035;t;Incineração
+G0055;GO;Município exemplo;2022;Papel e papelão ondulado;6,436;t;Tratamento com aproveitamento energético
+G0056;RJ;Município exemplo;2024;Lodo de ETA - tratamento de água;231,434;t;Tratamento com aproveitamento energético
+G0057;PE;Município exemplo;2021;Perfurocortantes - Grupo E;178,473;kg;Aterro controlado
+G0058;RJ;Município exemplo;2021;Lodo de ETA - tratamento de água;156,259;t;Aterro sanitário
+G0059;AM;Município exemplo;2024;Resíduos infectantes - Grupo A;9,354;t;Aterro sanitário
+G0060;BA;Município exemplo;2022;Sucata de aço e alumínio;15213,312;kg;Disposição Final em Lixão
+G0061;BA;Município exemplo;2021;Resíduos de portos;28,046;t;Reciclagem
+G0062;RS;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;1,851;t;Incineração
+G0063;BA;Município exemplo;2023;Lodo de ETA - tratamento de água;51,636;t;Tratamento com aproveitamento energético
+G0064;RJ;Município exemplo;2024;Resíduos de aeroportos;18,143;t;Compostagem
+G0065;PA;Município exemplo;2022;Papel e papelão ondulado;96,576;t;Incineração
+G0066;GO;Município exemplo;2021;Embalagens PET e plástico filme;15,579;t;Incineração
+G0067;PE;Município exemplo;2023;Embalagens PET e plástico filme;119,169;t;Aterro controlado
+G0068;PE;Município exemplo;2021;Perfurocortantes - Grupo E;1,486;t;Incineração
+G0069;PR;Município exemplo;2023;Lodo de ETA - tratamento de água;76,714;t;Aterro sanitário
+G0070;SP;Município exemplo;2021;Rejeitos diversos (outros);129,651;t;Incineração
+G0071;PA;Município exemplo;2023;Cacos de vidro;9,813;t;Aterro controlado
+G0072;SP;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;43,947;t;Aterro sanitário
+G0073;AM;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;527,724;t;Incineração
+G0074;PE;Município exemplo;2024;Lodo de ETE - tratamento de esgoto;475,201;t;Compostagem
+G0075;RJ;Município exemplo;2024;Papel e papelão ondulado;22,808;t;Compostagem
+G0076;PA;Município exemplo;2023;Tintas e solventes de obra - Classe D;696,615;kg;Coprocessamento
+G0077;RS;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;88,272;t;Incineração
+G0078;SP;Município exemplo;2021;Resíduos de aeroportos;51,880;t;Aterro sanitário
+G0079;SP;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;1,496;t;Reciclagem
+G0080;RJ;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;566,870;t;Compostagem
+G0081;RJ;Município exemplo;2023;Resíduos orgânicos de alimentos;263,946;t;Aterro controlado
+G0082;AM;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;18715,704;kg;Tratamento com aproveitamento energético
+G0083;MG;Município exemplo;2024;Perfurocortantes - Grupo E;1,270;t;Tratamento com aproveitamento energético
+G0084;SP;Município exemplo;2021;Papel e papelão ondulado;36214,417;kg;Compostagem
+G0085;SP;Município exemplo;2023;Resíduos infectantes - Grupo A;10,706;t;Coprocessamento
+G0086;PR;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;27,330;t;Coprocessamento
+G0087;BA;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;52922,667;kg;Coprocessamento
+G0088;PE;Município exemplo;2022;Papel e papelão ondulado;112,684;t;Aterro controlado
+G0089;GO;Município exemplo;2021;Perfurocortantes - Grupo E;1,363;t;Tratamento com aproveitamento energético
+G0090;BA;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;416,004;t;Coprocessamento
+G0091;SP;Município exemplo;2021;Pilhas e baterias;0,357;t;Reciclagem
+G0092;RJ;Município exemplo;2021;Tintas e solventes de obra - Classe D;1,032;t;Incineração
+G0093;MG;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;75,819;t;Aterro sanitário
+G0094;AM;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;51,533;t;Compostagem
+G0095;SP;Município exemplo;2021;Perfurocortantes - Grupo E;0,179;t;Disposição Final em Lixão
+G0096;GO;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;49,679;t;Coprocessamento
+G0097;PR;Município exemplo;2023;Sucata de aço e alumínio;43,655;t;Compostagem
+G0098;PR;Município exemplo;2021;Resíduos infectantes - Grupo A;5142,808;kg;Coprocessamento
+G0099;PR;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;2,735;t;Tratamento com aproveitamento energético
+G0100;PE;Município exemplo;2024;Lodo de ETE - tratamento de esgoto;44,374;t;Disposição Final em Lixão
+G0101;RS;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;163,675;t;Disposição Final em Lixão
+G0102;SP;Município exemplo;2021;Papel e papelão ondulado;67,100;t;Coprocessamento
+G0103;GO;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;1,498;t;Reciclagem
+G0104;BA;Município exemplo;2022;Resíduos de aeroportos;19,719;t;Coprocessamento
+G0105;GO;Município exemplo;2021;Resíduos de portos;17,424;t;Disposição Final em Lixão
+G0106;MG;Município exemplo;2024;Resíduos infectantes - Grupo A;4,332;t;Aterro controlado
+G0107;AM;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;359,877;t;Aterro controlado
+G0108;RJ;Município exemplo;2021;Perfurocortantes - Grupo E;1,474;t;Tratamento com aproveitamento energético
+G0109;AM;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;1,766;t;Tratamento com aproveitamento energético
+G0110;RS;Município exemplo;2022;Papel e papelão ondulado;71,084;t;Coprocessamento
+G0111;AM;Município exemplo;2022;Sucata de aço e alumínio;136,951;t;Compostagem
+G0112;RJ;Município exemplo;2022;Embalagens PET e plástico filme;37,578;t;Reciclagem
+G0113;PE;Município exemplo;2022;Resíduos infectantes - Grupo A;7,274;t;Compostagem
+G0114;RJ;Município exemplo;2021;Embalagens PET e plástico filme;117,067;t;Disposição Final em Lixão
+G0115;PA;Município exemplo;2023;Resíduos orgânicos de alimentos;198,274;t;Coprocessamento
+G0116;PA;Município exemplo;2024;Resíduos orgânicos de alimentos;63,547;t;Compostagem
+G0117;BA;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;8,722;t;Aterro controlado
+G0118;SP;Município exemplo;2022;Lodo de ETA - tratamento de água;16,414;t;Aterro controlado
+G0119;BA;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;566,906;t;Aterro controlado
+G0000;PR;Município exemplo;2021;Papel e papelão ondulado;97,306;t;Incineração
+G0001;PR;Município exemplo;2024;Lodo de ETE - tratamento de esgoto;209,069;t;Reciclagem
+G0002;AM;Município exemplo;2022;Resíduos de portos;42,602;t;Aterro controlado
+G0003;MG;Município exemplo;2021;Resíduos infectantes - Grupo A;9,360;t;Tratamento com aproveitamento energético
+G0004;AM;Município exemplo;2023;Embalagens PET e plástico filme;66,116;t;Compostagem
+G0005;GO;Município exemplo;2021;Tintas e solventes de obra - Classe D;6,808;t;Compostagem
+G0006;BA;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;1,589;t;Tratamento com aproveitamento energético
+G0007;SP;Município exemplo;2023;Perfurocortantes - Grupo E;0,780;t;Incineração
+G0008;PA;Município exemplo;2024;Embalagens PET e plástico filme;47056,730;kg;Disposição Final em Lixão
+G0009;PA;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;1761,517;kg;Coprocessamento
+G0010;BA;Município exemplo;2024;Perfurocortantes - Grupo E;0,704;t;Disposição Final em Lixão
+G0011;PE;Município exemplo;2024;Equipamentos eletroeletrônicos descartados;28,968;t;Reciclagem
+G0012;GO;Município exemplo;2023;Lodo de ETA - tratamento de água;298,880;t;Reciclagem
+G0013;PA;Município exemplo;2022;Cacos de vidro;16,778;t;Coprocessamento
+G0014;PE;Município exemplo;2022;Resíduos de portos;3,234;t;Coprocessamento
+G0015;PE;Município exemplo;2022;Rejeitos diversos (outros);67,463;t;Disposição Final em Lixão
+G0016;RJ;Município exemplo;2023;Rejeitos diversos (outros);171616,865;kg;Incineração
+G0017;PR;Município exemplo;2023;Pilhas e baterias;109,194;kg;Disposição Final em Lixão
+G0018;GO;Município exemplo;2023;Tintas e solventes de obra - Classe D;4,712;t;Reciclagem
+G0019;RS;Município exemplo;2021;Sucata de aço e alumínio;87,374;t;Reciclagem
+G0020;GO;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;31,629;t;Compostagem
+G0021;AM;Município exemplo;2021;Resíduos de aeroportos;7,346;t;Disposição Final em Lixão
+G0022;GO;Município exemplo;2021;Embalagens PET e plástico filme;51,447;t;Tratamento com aproveitamento energético
+G0023;BA;Município exemplo;2024;Resíduos de portos;43637,192;kg;Tratamento com aproveitamento energético
+G0024;RJ;Município exemplo;2023;Papel e papelão ondulado;82,313;t;Aterro sanitário
+G0025;GO;Município exemplo;2023;Lodo de ETA - tratamento de água;211,807;t;Coprocessamento
+G0026;RJ;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;346,677;t;Disposição Final em Lixão
+G0027;MG;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;57681,402;kg;Incineração
+G0028;PA;Município exemplo;2022;Resíduos de portos;68873,943;kg;Compostagem
+G0029;GO;Município exemplo;2022;Resíduos infectantes - Grupo A;1,224;t;Incineração
+G0030;PR;Município exemplo;2023;Rejeitos diversos (outros);89,862;t;Aterro sanitário
+G0031;AM;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;2,492;t;Coprocessamento
+G0032;PR;Município exemplo;2022;Resíduos orgânicos de alimentos;330,734;t;Compostagem
+G0033;PA;Município exemplo;2024;Pilhas e baterias;3892,361;kg;Aterro sanitário
+G0034;SP;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;23,175;t;Disposição Final em Lixão
+G0035;AM;Município exemplo;2024;Resíduos orgânicos de alimentos;412,761;t;Aterro sanitário
+G0036;BA;Município exemplo;2021;Sucata de aço e alumínio;252,592;t;Disposição Final em Lixão
+G0037;SP;Município exemplo;2024;Lodo de ETA - tratamento de água;191,331;t;Reciclagem
+G0038;RJ;Município exemplo;2023;Tintas e solventes de obra - Classe D;7,330;t;Incineração
+G0039;PA;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;28,550;t;Reciclagem
+G0040;GO;Município exemplo;2021;Resíduos infectantes - Grupo A;0,343;t;Aterro sanitário
+G0041;GO;Município exemplo;2021;Tintas e solventes de obra - Classe D;6,235;t;Aterro controlado
+G0042;GO;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;624,768;t;Reciclagem
+G0043;RJ;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;4,531;t;Compostagem
+G0044;MG;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;23,731;t;Disposição Final em Lixão
+G0045;GO;Município exemplo;2022;Tintas e solventes de obra - Classe D;1205,954;kg;Compostagem
+G0046;MG;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;112,933;t;Reciclagem
+G0047;SP;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;28,515;t;Coprocessamento
+G0048;PA;Município exemplo;2023;Resíduos de concreto, argamassa e tijolos - Classe A;92,074;t;Disposição Final em Lixão
+G0049;RS;Município exemplo;2021;Rejeitos diversos (outros);147,241;t;Tratamento com aproveitamento energético
+G0050;GO;Município exemplo;2022;Resíduos infectantes - Grupo A;4,474;t;Tratamento com aproveitamento energético
+G0051;PA;Município exemplo;2024;Sucata de aço e alumínio;386710,341;kg;Reciclagem
+G0052;RS;Município exemplo;2023;Perfurocortantes - Grupo E;1,172;t;Coprocessamento
+G0053;RS;Município exemplo;2021;Rejeitos diversos (outros);59,582;t;Incineração
+G0054;BA;Município exemplo;2024;Sucata de aço e alumínio;242,449;t;Aterro controlado
+G0055;GO;Município exemplo;2023;Perfurocortantes - Grupo E;1,034;t;Compostagem
+G0056;RS;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;316,512;t;Reciclagem
+G0057;PR;Município exemplo;2024;Rejeitos diversos (outros);167,480;t;Reciclagem
+G0058;PA;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;1,627;t;Tratamento com aproveitamento energético
+G0059;GO;Município exemplo;2022;Cacos de vidro;19258,753;kg;Aterro controlado
+G0060;GO;Município exemplo;2021;Embalagens PET e plástico filme;71193,824;kg;Aterro controlado
+G0061;PA;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;32,360;t;Compostagem
+G0062;BA;Município exemplo;2022;Resíduos de aeroportos;23,828;t;Compostagem
+G0063;RS;Município exemplo;2023;Resíduos orgânicos de alimentos;55,172;t;Compostagem
+G0064;SP;Município exemplo;2024;Perfurocortantes - Grupo E;1,174;t;Compostagem
+G0065;MG;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;2,606;t;Tratamento com aproveitamento energético
+G0066;MG;Município exemplo;2021;Resíduos infectantes - Grupo A;7,207;t;Aterro sanitário
+G0067;BA;Município exemplo;2023;Resíduos orgânicos de alimentos;495,298;t;Tratamento com aproveitamento energético
+G0068;PR;Município exemplo;2021;Embalagens PET e plástico filme;52,262;t;Reciclagem
+G0069;SP;Município exemplo;2021;Resíduos infectantes - Grupo A;2,492;t;Disposição Final em Lixão
+G0070;GO;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;169,427;t;Tratamento com aproveitamento energético
+G0071;PR;Município exemplo;2023;Perfurocortantes - Grupo E;1,385;t;Disposição Final em Lixão
+G0072;RJ;Município exemplo;2024;Pilhas e baterias;971,171;kg;Aterro controlado
+G0073;RJ;Município exemplo;2021;Papel e papelão ondulado;57,524;t;Compostagem
+G0074;SP;Município exemplo;2023;Embalagens PET e plástico filme;113057,753;kg;Aterro sanitário
+G0075;SP;Município exemplo;2021;Resíduos de aeroportos;50,253;t;Tratamento com aproveitamento energético
+G0076;PR;Município exemplo;2024;Sucata de aço e alumínio;130484,612;kg;Compostagem
+G0077;MG;Município exemplo;2023;Tintas e solventes de obra - Classe D;3,872;t;Aterro controlado
+G0078;SP;Município exemplo;2024;Resíduos de portos;36,029;t;Reciclagem
+G0079;RS;Município exemplo;2023;Resíduos orgânicos de alimentos;401,436;t;Compostagem
+G0080;SP;Município exemplo;2021;Sucata de aço e alumínio;312,434;t;Aterro controlado
+G0081;GO;Município exemplo;2021;Lodo de ETA - tratamento de água;291,970;t;Compostagem
+G0082;RJ;Município exemplo;2024;Medicamentos vencidos - produtos químicos - Grupo B;0,471;t;Aterro sanitário
+G0083;PR;Município exemplo;2024;Equipamentos eletroeletrônicos descartados;35,628;t;Reciclagem
+G0084;PE;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;212470,438;kg;Coprocessamento
+G0085;MG;Município exemplo;2022;Embalagens PET e plástico filme;59,939;t;Tratamento com aproveitamento energético
+G0086;AM;Município exemplo;2024;Resíduos de aeroportos;5,866;t;Compostagem
+G0087;PA;Município exemplo;2023;Rejeitos diversos (outros);28,242;t;Incineração
+G0088;PA;Município exemplo;2022;Cacos de vidro;55579,707;kg;Coprocessamento
+G0089;SP;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;250,535;t;Reciclagem
+G0090;AM;Município exemplo;2023;Resíduos de aeroportos;25181,605;kg;Aterro sanitário
+G0091;BA;Município exemplo;2023;Papel e papelão ondulado;55934,583;kg;Aterro controlado
+G0092;RJ;Município exemplo;2022;Pilhas e baterias;0,764;t;Compostagem
+G0093;PR;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;49,909;t;Tratamento com aproveitamento energético
+G0094;BA;Município exemplo;2021;Resíduos orgânicos de alimentos;77,150;t;Compostagem
+G0095;AM;Município exemplo;2023;Resíduos para os quais não há reciclagem ou recuperação - Classe C;41,842;t;Aterro sanitário
+G0096;MG;Município exemplo;2021;Resíduos infectantes - Grupo A;3,453;t;Tratamento com aproveitamento energético
+G0097;BA;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;729,968;t;Coprocessamento
+G0098;PE;Município exemplo;2021;Pilhas e baterias;3,335;t;Reciclagem
+G0099;MG;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;1,583;t;Disposição Final em Lixão
+G0100;PA;Município exemplo;2021;Cacos de vidro;49,176;t;Incineração
+G0101;GO;Município exemplo;2021;Rejeitos diversos (outros);175,197;t;Tratamento com aproveitamento energético
+G0102;MG;Município exemplo;2022;Resíduos de aeroportos;56706,146;kg;Compostagem
+G0103;SP;Município exemplo;2021;Papel e papelão ondulado;27,678;t;Aterro sanitário
+G0104;GO;Município exemplo;2021;Resíduos orgânicos de alimentos;138,095;t;Tratamento com aproveitamento energético
+G0105;PR;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;2,615;t;Aterro sanitário
+G0106;MG;Município exemplo;2021;Lodo de ETA - tratamento de água;153,142;t;Coprocessamento
+G0107;BA;Município exemplo;2022;Tintas e solventes de obra - Classe D;3364,074;kg;Compostagem
+G0108;PA;Município exemplo;2024;Pilhas e baterias;1,875;t;Aterro sanitário
+G0109;PE;Município exemplo;2023;Resíduos de aeroportos;4,462;t;Aterro sanitário
+G0110;RS;Município exemplo;2023;Perfurocortantes - Grupo E;0,376;t;Aterro controlado
+G0111;PE;Município exemplo;2022;Perfurocortantes - Grupo E;1274,493;kg;Reciclagem
+G0112;AM;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;537232,344;kg;Disposição Final em Lixão
+G0113;BA;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;20,137;t;Aterro sanitário
+G0114;SP;Município exemplo;2021;Lodo de ETE - tratamento de esgoto;776,363;t;Tratamento com aproveitamento energético
+G0115;AM;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;260,354;t;Coprocessamento
+G0116;BA;Município exemplo;2021;Tintas e solventes de obra - Classe D;2,155;t;Aterro controlado
+G0117;MG;Município exemplo;2021;Rejeitos diversos (outros);27,044;t;Reciclagem
+G0118;GO;Município exemplo;2021;Resíduos de aeroportos;63296,635;kg;Reciclagem
+G0119;RS;Município exemplo;2023;Resíduos de aeroportos;10,933;t;Aterro controlado
+G0000;GO;Município exemplo;2022;Embalagens PET e plástico filme;30721,282;kg;Coprocessamento
+G0001;AM;Município exemplo;2023;Perfurocortantes - Grupo E;0,318;t;Tratamento com aproveitamento energético
+G0002;PE;Município exemplo;2022;Resíduos de portos;43,800;t;Compostagem
+G0003;PE;Município exemplo;2022;Resíduos orgânicos de alimentos;261,100;t;Compostagem
+G0004;PR;Município exemplo;2022;Cacos de vidro;20,113;t;Coprocessamento
+G0005;RS;Município exemplo;2023;Rejeitos diversos (outros);16096,970;kg;Disposição Final em Lixão
+G0006;PE;Município exemplo;2021;Lodo de ETA - tratamento de água;200,738;t;Tratamento com aproveitamento energético
+G0007;PA;Município exemplo;2023;Resíduos de aeroportos;17,311;t;Reciclagem
+G0008;AM;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;0,464;t;Coprocessamento
+G0009;PA;Município exemplo;2021;Resíduos de portos;26,375;t;Reciclagem
+G0010;GO;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;392,959;t;Disposição Final em Lixão
+G0011;RS;Município exemplo;2021;Pilhas e baterias;0,641;t;Coprocessamento
+G0012;PE;Município exemplo;2023;Perfurocortantes - Grupo E;1,280;t;Coprocessamento
+G0013;PE;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;1,203;t;Aterro controlado
+G0014;RJ;Município exemplo;2024;Resíduos de portos;36,119;t;Coprocessamento
+G0015;PE;Município exemplo;2022;Pilhas e baterias;1,539;t;Incineração
+G0016;SP;Município exemplo;2021;Resíduos infectantes - Grupo A;2,531;t;Aterro sanitário
+G0017;AM;Município exemplo;2024;Embalagens PET e plástico filme;68,662;t;Coprocessamento
+G0018;PA;Município exemplo;2024;Resíduos de aeroportos;58,146;t;Aterro controlado
+G0019;SP;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;0,170;t;Tratamento com aproveitamento energético
+G0020;AM;Município exemplo;2022;Resíduos de aeroportos;17,590;t;Aterro controlado
+G0021;RS;Município exemplo;2023;Resíduos orgânicos de alimentos;482,591;t;Tratamento com aproveitamento energético
+G0022;PE;Município exemplo;2023;Resíduos de aeroportos;52759,796;kg;Incineração
+G0023;PR;Município exemplo;2023;Resíduos para os quais não há reciclagem ou recuperação - Classe C;49,736;t;Disposição Final em Lixão
+G0024;AM;Município exemplo;2023;Resíduos de aeroportos;62,394;t;Reciclagem
+G0025;RJ;Município exemplo;2021;Resíduos de aeroportos;16,130;t;Aterro controlado
+G0026;PA;Município exemplo;2021;Pilhas e baterias;2,432;t;Aterro sanitário
+G0027;PR;Município exemplo;2024;Resíduos de concreto, argamassa e tijolos - Classe A;303,797;t;Aterro sanitário
+G0028;RJ;Município exemplo;2024;Tintas e solventes de obra - Classe D;4,772;t;Compostagem
+G0029;RS;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;22,898;t;Reciclagem
+G0030;SP;Município exemplo;2021;Lodo de ETE - tratamento de esgoto;489358,650;kg;Disposição Final em Lixão
+G0031;RS;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;11,062;t;Tratamento com aproveitamento energético
+G0032;RJ;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;196,780;t;Incineração
+G0033;RS;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;862,571;kg;Disposição Final em Lixão
+G0034;SP;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;0,615;t;Aterro sanitário
+G0035;SP;Município exemplo;2022;Perfurocortantes - Grupo E;0,882;t;Tratamento com aproveitamento energético
+G0036;PE;Município exemplo;2021;Cacos de vidro;14,151;t;Reciclagem
+G0037;MG;Município exemplo;2022;Lodo de ETA - tratamento de água;98,066;t;Tratamento com aproveitamento energético
+G0038;PR;Município exemplo;2024;Perfurocortantes - Grupo E;1,019;t;Aterro controlado
+G0039;RJ;Município exemplo;2022;Resíduos de portos;4,951;t;Disposição Final em Lixão
+G0040;PA;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;1168,077;kg;Coprocessamento
+G0041;PA;Município exemplo;2021;Tintas e solventes de obra - Classe D;2,813;t;Incineração
+G0042;PA;Município exemplo;2022;Tintas e solventes de obra - Classe D;3,494;t;Compostagem
+G0043;PR;Município exemplo;2021;Lodo de ETA - tratamento de água;92,240;t;Aterro sanitário
+G0044;MG;Município exemplo;2022;Resíduos infectantes - Grupo A;9,678;t;Reciclagem
+G0045;GO;Município exemplo;2022;Embalagens PET e plástico filme;66,294;t;Tratamento com aproveitamento energético
+G0046;PA;Município exemplo;2022;Papel e papelão ondulado;57,084;t;Aterro controlado
+G0047;GO;Município exemplo;2022;Rejeitos diversos (outros);190,433;t;Compostagem
+G0048;AM;Município exemplo;2022;Embalagens PET e plástico filme;72,322;t;Incineração
+G0049;AM;Município exemplo;2021;Perfurocortantes - Grupo E;0,920;t;Disposição Final em Lixão
+G0050;SP;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;34,148;t;Aterro controlado
+G0051;BA;Município exemplo;2023;Rejeitos diversos (outros);7,925;t;Reciclagem
+G0052;PR;Município exemplo;2022;Resíduos orgânicos de alimentos;334746,915;kg;Incineração
+G0053;RJ;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;43404,410;kg;Coprocessamento
+G0054;RJ;Município exemplo;2023;Rejeitos diversos (outros);74,400;t;Tratamento com aproveitamento energético
+G0055;PA;Município exemplo;2021;Papel e papelão ondulado;7,347;t;Incineração
+G0056;MG;Município exemplo;2022;Lodo de ETA - tratamento de água;82,042;t;Incineração
+G0057;SP;Município exemplo;2024;Rejeitos diversos (outros);27,470;t;Compostagem
+G0058;RJ;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;184,516;t;Coprocessamento
+G0059;RS;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;167,942;t;Reciclagem
+G0060;RS;Município exemplo;2023;Pilhas e baterias;2,017;t;Aterro controlado
+G0061;SP;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;136,210;t;Coprocessamento
+G0062;BA;Município exemplo;2023;Cacos de vidro;41183,074;kg;Incineração
+G0063;PR;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;25,617;t;Compostagem
+G0064;AM;Município exemplo;2024;Medicamentos vencidos - produtos químicos - Grupo B;2,842;t;Incineração
+G0065;AM;Município exemplo;2022;Resíduos de aeroportos;5,692;t;Aterro controlado
+G0066;RJ;Município exemplo;2022;Resíduos de portos;69287,242;kg;Coprocessamento
+G0067;RJ;Município exemplo;2023;Cacos de vidro;33,092;t;Aterro sanitário
+G0068;RJ;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;1,264;t;Coprocessamento
+G0069;SP;Município exemplo;2024;Resíduos de portos;61,319;t;Compostagem
+G0070;RJ;Município exemplo;2022;Sucata de aço e alumínio;374,658;t;Coprocessamento
+G0071;AM;Município exemplo;2024;Pilhas e baterias;2,275;t;Disposição Final em Lixão
+G0072;PA;Município exemplo;2022;Papel e papelão ondulado;102,523;t;Tratamento com aproveitamento energético
+G0073;BA;Município exemplo;2021;Tintas e solventes de obra - Classe D;5583,018;kg;Tratamento com aproveitamento energético
+G0074;PR;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;269,265;t;Disposição Final em Lixão
+G0075;PR;Município exemplo;2022;Tintas e solventes de obra - Classe D;1,458;t;Incineração
+G0076;MG;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;3336,824;kg;Tratamento com aproveitamento energético
+G0077;GO;Município exemplo;2022;Pilhas e baterias;1,095;t;Aterro controlado
+G0078;PR;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;13,212;t;Disposição Final em Lixão
+G0079;PA;Município exemplo;2022;Cacos de vidro;5,611;t;Aterro sanitário
+G0080;MG;Município exemplo;2023;Rejeitos diversos (outros);76,738;t;Reciclagem
+G0081;PE;Município exemplo;2022;Resíduos infectantes - Grupo A;4,615;t;Incineração
+G0082;BA;Município exemplo;2021;Medicamentos vencidos - produtos químicos - Grupo B;0,452;t;Coprocessamento
+G0083;SP;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;36,635;t;Aterro controlado
+G0084;RS;Município exemplo;2021;Resíduos de portos;39,799;t;Coprocessamento
+G0085;PA;Município exemplo;2021;Sucata de aço e alumínio;276,754;t;Tratamento com aproveitamento energético
+G0086;PE;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;255,947;t;Compostagem
+G0087;RJ;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;253,043;t;Aterro controlado
+G0088;PE;Município exemplo;2021;Resíduos para os quais não há reciclagem ou recuperação - Classe C;40,036;t;Aterro controlado
+G0089;RJ;Município exemplo;2024;Lodo de ETA - tratamento de água;12,551;t;Reciclagem
+G0090;RS;Município exemplo;2022;Rejeitos diversos (outros);5,818;t;Incineração
+G0091;PA;Município exemplo;2022;Resíduos de portos;10,399;t;Tratamento com aproveitamento energético
+G0092;PE;Município exemplo;2023;Perfurocortantes - Grupo E;1,443;t;Aterro sanitário
+G0093;RJ;Município exemplo;2023;Pilhas e baterias;2,306;t;Tratamento com aproveitamento energético
+G0094;BA;Município exemplo;2024;Resíduos infectantes - Grupo A;6,412;t;Compostagem
+G0095;PE;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;9,668;t;Aterro controlado
+G0096;RJ;Município exemplo;2022;Pilhas e baterias;1,793;t;Compostagem
+G0097;MG;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;30,119;t;Coprocessamento
+G0098;AM;Município exemplo;2024;Resíduos de aeroportos;47,576;t;Compostagem
+G0099;PA;Município exemplo;2021;Cacos de vidro;32,932;t;Disposição Final em Lixão
+G0100;AM;Município exemplo;2021;Lodo de ETA - tratamento de água;48,943;t;Disposição Final em Lixão
+G0101;BA;Município exemplo;2024;Lodo de ETA - tratamento de água;250,761;t;Reciclagem
+G0102;PA;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;9,071;t;Aterro sanitário
+G0103;GO;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;114842,338;kg;Compostagem
+G0104;RS;Município exemplo;2022;Tintas e solventes de obra - Classe D;5,718;t;Disposição Final em Lixão
+G0105;RJ;Município exemplo;2023;Pilhas e baterias;0,503;t;Incineração
+G0106;PR;Município exemplo;2021;Resíduos infectantes - Grupo A;9,669;t;Aterro sanitário
+G0107;GO;Município exemplo;2021;Cacos de vidro;23,008;t;Incineração
+G0108;SP;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;0,344;t;Disposição Final em Lixão
+G0109;RS;Município exemplo;2024;Embalagens PET e plástico filme;43,814;t;Aterro sanitário
+G0110;PR;Município exemplo;2022;Tintas e solventes de obra - Classe D;6,371;t;Disposição Final em Lixão
+G0111;RJ;Município exemplo;2023;Sucata de aço e alumínio;223,927;t;Aterro controlado
+G0112;GO;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;39,892;t;Coprocessamento
+G0113;SP;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;334,436;t;Tratamento com aproveitamento energético
+G0114;GO;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;11,755;t;Aterro controlado
+G0115;PE;Município exemplo;2023;Lodo de ETA - tratamento de água;124,091;t;Disposição Final em Lixão
+G0116;BA;Município exemplo;2022;Resíduos de aeroportos;16,709;t;Aterro sanitário
+G0117;PA;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;2,195;t;Tratamento com aproveitamento energético
+G0118;BA;Município exemplo;2021;Resíduos infectantes - Grupo A;0,171;t;Incineração
+G0119;RJ;Município exemplo;2022;Cacos de vidro;28,105;t;Aterro sanitário
+G0000;PE;Município exemplo;2022;Embalagens PET e plástico filme;47362,876;kg;Coprocessamento
+G0001;BA;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;274,941;t;Disposição Final em Lixão
+G0002;BA;Município exemplo;2022;Pilhas e baterias;2,557;t;Coprocessamento
+G0003;AM;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;18,936;t;Incineração
+G0004;SP;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;2,625;t;Incineração
+G0005;BA;Município exemplo;2022;Resíduos infectantes - Grupo A;10,616;t;Incineração
+G0006;PA;Município exemplo;2024;Medicamentos vencidos - produtos químicos - Grupo B;0,495;t;Tratamento com aproveitamento energético
+G0007;RS;Município exemplo;2021;Perfurocortantes - Grupo E;0,862;t;Reciclagem
+G0008;MG;Município exemplo;2022;Sucata de aço e alumínio;124,088;t;Incineração
+G0009;RS;Município exemplo;2023;Pilhas e baterias;3,703;t;Coprocessamento
+G0010;MG;Município exemplo;2024;Lodo de ETA - tratamento de água;113,523;t;Aterro controlado
+G0011;AM;Município exemplo;2021;Resíduos infectantes - Grupo A;10,799;t;Coprocessamento
+G0012;BA;Município exemplo;2021;Papel e papelão ondulado;95,088;t;Aterro sanitário
+G0013;AM;Município exemplo;2021;Perfurocortantes - Grupo E;0,683;t;Coprocessamento
+G0014;MG;Município exemplo;2021;Resíduos orgânicos de alimentos;128450,469;kg;Reciclagem
+G0015;PR;Município exemplo;2021;Pilhas e baterias;1397,583;kg;Compostagem
+G0016;SP;Município exemplo;2024;Resíduos infectantes - Grupo A;11,082;t;Incineração
+G0017;SP;Município exemplo;2024;Perfurocortantes - Grupo E;0,922;t;Reciclagem
+G0018;RS;Município exemplo;2024;Madeira, gesso e plásticos de obra - Classe B;30,723;t;Tratamento com aproveitamento energético
+G0019;PE;Município exemplo;2023;Embalagens PET e plástico filme;112,948;t;Aterro sanitário
+G0020;RJ;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;127,465;t;Incineração
+G0021;PE;Município exemplo;2023;Resíduos de concreto, argamassa e tijolos - Classe A;174324,690;kg;Disposição Final em Lixão
+G0022;RS;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;288,404;t;Reciclagem
+G0023;SP;Município exemplo;2023;Cacos de vidro;44,724;t;Tratamento com aproveitamento energético
+G0024;PE;Município exemplo;2023;Equipamentos eletroeletrônicos descartados;39,107;t;Coprocessamento
+G0025;PE;Município exemplo;2022;Sucata de aço e alumínio;104,902;t;Disposição Final em Lixão
+G0026;RS;Município exemplo;2022;Cacos de vidro;24,650;t;Aterro sanitário
+G0027;PR;Município exemplo;2023;Tintas e solventes de obra - Classe D;0,669;t;Reciclagem
+G0028;AM;Município exemplo;2021;Sucata de aço e alumínio;361,629;t;Reciclagem
+G0029;BA;Município exemplo;2023;Medicamentos vencidos - produtos químicos - Grupo B;2,345;t;Tratamento com aproveitamento energético
+G0030;MG;Município exemplo;2021;Perfurocortantes - Grupo E;0,701;t;Aterro sanitário
+G0031;SP;Município exemplo;2022;Resíduos para os quais não há reciclagem ou recuperação - Classe C;48,598;t;Incineração
+G0032;BA;Município exemplo;2021;Pilhas e baterias;1,535;t;Aterro controlado
+G0033;BA;Município exemplo;2023;Embalagens PET e plástico filme;4,450;t;Compostagem
+G0034;GO;Município exemplo;2022;Resíduos orgânicos de alimentos;169,762;t;Compostagem
+G0035;RJ;Município exemplo;2023;Pilhas e baterias;3,174;t;Coprocessamento
+G0036;RJ;Município exemplo;2023;Rejeitos diversos (outros);22244,420;kg;Compostagem
+G0037;PE;Município exemplo;2021;Lodo de ETA - tratamento de água;71499,615;kg;Compostagem
+G0038;SP;Município exemplo;2021;Lodo de ETA - tratamento de água;62,866;t;Coprocessamento
+G0039;RJ;Município exemplo;2023;Sucata de aço e alumínio;389862,893;kg;Coprocessamento
+G0040;MG;Município exemplo;2024;Tintas e solventes de obra - Classe D;6,060;t;Aterro controlado
+G0041;PE;Município exemplo;2021;Resíduos infectantes - Grupo A;7,742;t;Aterro controlado
+G0042;SP;Município exemplo;2022;Pilhas e baterias;0,977;t;Aterro sanitário
+G0043;SP;Município exemplo;2021;Resíduos de aeroportos;42,472;t;Disposição Final em Lixão
+G0044;RJ;Município exemplo;2024;Resíduos infectantes - Grupo A;868,225;kg;Tratamento com aproveitamento energético
+G0045;AM;Município exemplo;2021;Resíduos de concreto, argamassa e tijolos - Classe A;193,924;t;Reciclagem
+G0046;PE;Município exemplo;2022;Resíduos de aeroportos;26,043;t;Disposição Final em Lixão
+G0047;SP;Município exemplo;2023;Cacos de vidro;44,153;t;Reciclagem
+G0048;PA;Município exemplo;2023;Embalagens PET e plástico filme;10132,657;kg;Aterro sanitário
+G0049;AM;Município exemplo;2023;Embalagens PET e plástico filme;3,250;t;Tratamento com aproveitamento energético
+G0050;PA;Município exemplo;2024;Equipamentos eletroeletrônicos descartados;13,565;t;Coprocessamento
+G0051;PA;Município exemplo;2024;Resíduos infectantes - Grupo A;6,526;t;Reciclagem
+G0052;BA;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;646,928;t;Aterro sanitário
+G0053;MG;Município exemplo;2021;Perfurocortantes - Grupo E;1,487;t;Disposição Final em Lixão
+G0054;AM;Município exemplo;2023;Madeira, gesso e plásticos de obra - Classe B;124,717;t;Tratamento com aproveitamento energético
+G0055;AM;Município exemplo;2023;Lodo de ETA - tratamento de água;291767,790;kg;Tratamento com aproveitamento energético
+G0056;PE;Município exemplo;2021;Pilhas e baterias;2,207;t;Aterro controlado
+G0057;MG;Município exemplo;2022;Perfurocortantes - Grupo E;1,464;t;Incineração
+G0058;AM;Município exemplo;2024;Embalagens PET e plástico filme;32,949;t;Incineração
+G0059;AM;Município exemplo;2022;Pilhas e baterias;923,835;kg;Incineração
+G0060;RJ;Município exemplo;2024;Resíduos de aeroportos;13,501;t;Reciclagem
+G0061;PE;Município exemplo;2024;Papel e papelão ondulado;97,157;t;Aterro sanitário
+G0062;PA;Município exemplo;2022;Medicamentos vencidos - produtos químicos - Grupo B;2,505;t;Disposição Final em Lixão
+G0063;GO;Município exemplo;2021;Embalagens PET e plástico filme;46,267;t;Coprocessamento
+G0064;GO;Município exemplo;2024;Embalagens PET e plástico filme;48,675;t;Disposição Final em Lixão
+G0065;PE;Município exemplo;2024;Papel e papelão ondulado;114544,013;kg;Reciclagem
+G0066;PA;Município exemplo;2023;Resíduos de aeroportos;46,898;t;Incineração
+G0067;SP;Município exemplo;2022;Resíduos de concreto, argamassa e tijolos - Classe A;518332,365;kg;Coprocessamento
+G0068;PR;Município exemplo;2022;Rejeitos diversos (outros);145,045;t;Incineração
+G0069;MG;Município exemplo;2022;Embalagens PET e plástico filme;100428,678;kg;Tratamento com aproveitamento energético
+G0070;SP;Município exemplo;2024;Sucata de aço e alumínio;172,143;t;Incineração
+G0071;PA;Município exemplo;2024;Perfurocortantes - Grupo E;0,563;t;Coprocessamento
+G0072;RS;Município exemplo;2022;Embalagens PET e plástico filme;43,578;t;Reciclagem
+G0073;MG;Município exemplo;2021;Pilhas e baterias;1,521;t;Incineração
+G0074;SP;Município exemplo;2021;Lodo de ETA - tratamento de água;120,027;t;Tratamento com aproveitamento energético
+G0075;PA;Município exemplo;2024;Pilhas e baterias;2,276;t;Aterro controlado
+G0076;RJ;Município exemplo;2021;Papel e papelão ondulado;133,882;t;Tratamento com aproveitamento energético
+G0077;PR;Município exemplo;2023;Cacos de vidro;44,686;t;Aterro sanitário
+G0078;MG;Município exemplo;2021;Perfurocortantes - Grupo E;1159,420;kg;Compostagem
+G0079;RS;Município exemplo;2024;Tintas e solventes de obra - Classe D;4,076;t;Compostagem
+G0080;GO;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;248,078;t;Incineração
+G0081;PA;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;27,795;t;Reciclagem
+G0082;RJ;Município exemplo;2023;Sucata de aço e alumínio;131,593;t;Aterro sanitário
+G0083;PR;Município exemplo;2024;Resíduos de aeroportos;19,839;t;Coprocessamento
+G0084;PR;Município exemplo;2022;Resíduos de aeroportos;62,234;t;Coprocessamento
+G0085;PR;Município exemplo;2022;Perfurocortantes - Grupo E;1,207;t;Coprocessamento
+G0086;GO;Município exemplo;2024;Sucata de aço e alumínio;25,582;t;Incineração
+G0087;BA;Município exemplo;2024;Pilhas e baterias;0,608;t;Incineração
+G0088;AM;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;26,724;t;Aterro sanitário
+G0089;PR;Município exemplo;2022;Lodo de ETE - tratamento de esgoto;762,105;t;Aterro sanitário
+G0090;PA;Município exemplo;2024;Lodo de ETA - tratamento de água;94,545;t;Tratamento com aproveitamento energético
+G0091;MG;Município exemplo;2021;Resíduos orgânicos de alimentos;440250,203;kg;Aterro controlado
+G0092;RJ;Município exemplo;2021;Sucata de aço e alumínio;345739,004;kg;Tratamento com aproveitamento energético
+G0093;PR;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;29,619;t;Compostagem
+G0094;AM;Município exemplo;2021;Equipamentos eletroeletrônicos descartados;33612,966;kg;Compostagem
+G0095;PA;Município exemplo;2022;Lodo de ETA - tratamento de água;37,618;t;Aterro sanitário
+G0096;RJ;Município exemplo;2021;Embalagens PET e plástico filme;85,333;t;Aterro controlado
+G0097;BA;Município exemplo;2023;Sucata de aço e alumínio;21,494;t;Coprocessamento
+G0098;PE;Município exemplo;2022;Equipamentos eletroeletrônicos descartados;28,915;t;Coprocessamento
+G0099;PA;Município exemplo;2021;Sucata de aço e alumínio;378,495;t;Compostagem
+G0100;AM;Município exemplo;2021;Resíduos infectantes - Grupo A;4,622;t;Compostagem
+G0101;PA;Município exemplo;2021;Resíduos orgânicos de alimentos;237,582;t;Compostagem
+G0102;AM;Município exemplo;2021;Madeira, gesso e plásticos de obra - Classe B;249405,985;kg;Compostagem
+G0103;MG;Município exemplo;2022;Rejeitos diversos (outros);100533,597;kg;Tratamento com aproveitamento energético
+G0104;BA;Município exemplo;2022;Resíduos de portos;27,360;t;Disposição Final em Lixão
+G0105;RS;Município exemplo;2023;Resíduos de portos;26,592;t;Compostagem
+G0106;PE;Município exemplo;2022;Madeira, gesso e plásticos de obra - Classe B;176132,618;kg;Aterro sanitário
+G0107;PE;Município exemplo;2024;Sucata de aço e alumínio;264330,093;kg;Incineração
+G0108;MG;Município exemplo;2023;Resíduos de portos;24,523;t;Reciclagem
+G0109;RJ;Município exemplo;2024;Resíduos para os quais não há reciclagem ou recuperação - Classe C;43,697;t;Disposição Final em Lixão
+G0110;PA;Município exemplo;2022;Lodo de ETA - tratamento de água;20410,617;kg;Disposição Final em Lixão
+G0111;RJ;Município exemplo;2023;Lodo de ETE - tratamento de esgoto;470,833;t;Incineração
+G0112;GO;Município exemplo;2023;Papel e papelão ondulado;100423,637;kg;Aterro sanitário
+G0113;MG;Município exemplo;2022;Sucata de aço e alumínio;108205,983;kg;Compostagem
+G0114;GO;Município exemplo;2022;Resíduos de portos;26,531;t;Incineração
+G0115;PE;Município exemplo;2022;Papel e papelão ondulado;86550,991;kg;Coprocessamento
+G0116;BA;Município exemplo;2022;Rejeitos diversos (outros);83,725;t;Reciclagem
+G0117;RS;Município exemplo;2022;Tintas e solventes de obra - Classe D;0,318;t;Tratamento com aproveitamento energético
+G0118;SP;Município exemplo;2024;Cacos de vidro;6,135;t;Coprocessamento
+G0119;MG;Município exemplo;2022;Perfurocortantes - Grupo E;943,877;kg;Disposição Final em Lixão
+G9999;SP;Município exemplo;2024;Cacos de vidro;45000,000;t;Reciclagem

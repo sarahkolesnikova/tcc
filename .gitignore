@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+.coverage
+data/raw/*
+data/bronze/*
+data/silver/*
+data/gold/*
+!data/*/.gitkeep
+*.part
