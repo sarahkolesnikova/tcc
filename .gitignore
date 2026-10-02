@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+backend/data/
+*.sqlite3
+node_modules/
+frontend/build/
+frontend/.react-router/

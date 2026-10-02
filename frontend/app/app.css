@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* Tokens: papel de planilha (cinza-azulado frio), tinta grafite, marca-texto para o que foi
+   sinalizado e vermelho de auditoria para o que vários modelos concordam. */
+@theme {
+  --font-sans: "Public Sans", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
+  --color-papel: #f3f5f7;
+  --color-folha: #ffffff;
+  --color-grade: #d6dde2;
+  --color-grade-forte: #aab6bf;
+  --color-tinta: #1d2a33;
+  --color-tinta-2: #4c5b66;
+  --color-tinta-3: #77858f;
+  --color-marca: #f4dc5a;
+  --color-marca-suave: #fbf1bd;
+  --color-auditoria: #b3332c;
+  --color-auditoria-suave: #f6dcd9;
+  --color-acao: #1f6672;
+  --color-acao-escura: #164e57;
+  --color-ok: #2f7a4c;
+}
+
+html, body { background: var(--color-papel); color: var(--color-tinta); }
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 2px solid var(--color-acao); outline-offset: 2px; }
+h1, h2, h3 { text-wrap: balance; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* marca-texto: o traço levemente inclinado de quem revisa planilha à mão */
+.marca {
+  background: linear-gradient(100deg, transparent 0.2em, var(--color-marca) 0.3em, var(--color-marca) calc(100% - 0.3em), transparent calc(100% - 0.2em));
+  border-radius: 0.2em;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .risca { background-size: 0% 100%; background-repeat: no-repeat; animation: risca 900ms 300ms ease-out forwards; }
+  @keyframes risca { to { background-size: 100% 100%; } }
+}

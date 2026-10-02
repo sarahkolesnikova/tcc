@@ -1,0 +1,71 @@
+modelo,nome,tipo,linhas,tempo_s
+zscore,Z-Score,numeric,500,0.0006132180001259258
+iqr,IQR (Tukey),numeric,500,0.0008872580001479946
+mad,Modified Z-Score (MAD),numeric,500,0.0005775680001534056
+mahalanobis,Distância de Mahalanobis,numeric,500,0.0010943789998236753
+knn,KNN Distance,numeric,500,0.005052283000168245
+lof,LOF,numeric,500,0.005018553000354586
+isolation_forest,Isolation Forest,numeric,500,0.21255923199987592
+percentile_fence,Percentile Fence,numeric,500,0.0011870329999510432
+frequency,Frequência Relativa,categorical,500,0.003149848000248312
+entropy,Entropia por Linha,categorical,500,0.004913702000067133
+chi_square,Qui-Quadrado,categorical,500,0.018392431999927794
+binomial,Teste Binomial,categorical,500,0.0036501320000752457
+cooccurrence,Co-ocorrência de Pares,categorical,500,0.004525741999714228
+lof_categorical,LOF Categórico,categorical,500,0.007141262999994069
+zscore,Z-Score,numeric,1000,0.0010086150000461203
+iqr,IQR (Tukey),numeric,1000,0.0015826240000933467
+mad,Modified Z-Score (MAD),numeric,1000,0.0010299589998794545
+mahalanobis,Distância de Mahalanobis,numeric,1000,0.001789437999832444
+knn,KNN Distance,numeric,1000,0.013670854000338295
+lof,LOF,numeric,1000,0.011720423000042501
+isolation_forest,Isolation Forest,numeric,1000,0.23343332700005703
+percentile_fence,Percentile Fence,numeric,1000,0.0017222609999407723
+frequency,Frequência Relativa,categorical,1000,0.00388168500012398
+entropy,Entropia por Linha,categorical,1000,0.006058523999854515
+chi_square,Qui-Quadrado,categorical,1000,0.021510560999558948
+binomial,Teste Binomial,categorical,1000,0.005382454000027792
+cooccurrence,Co-ocorrência de Pares,categorical,1000,0.005856752999989112
+lof_categorical,LOF Categórico,categorical,1000,0.011629452000306628
+zscore,Z-Score,numeric,5000,0.004172898999968311
+iqr,IQR (Tukey),numeric,5000,0.006688116000077571
+mad,Modified Z-Score (MAD),numeric,5000,0.004478382000343117
+mahalanobis,Distância de Mahalanobis,numeric,5000,0.0068317219997879874
+knn,KNN Distance,numeric,5000,0.16947547000017948
+lof,LOF,numeric,5000,0.09687855299989678
+isolation_forest,Isolation Forest,numeric,5000,0.3664986720000343
+percentile_fence,Percentile Fence,numeric,5000,0.005985176999729447
+frequency,Frequência Relativa,categorical,5000,0.009177575999729015
+entropy,Entropia por Linha,categorical,5000,0.016204459000164206
+chi_square,Qui-Quadrado,categorical,5000,0.033831794999969134
+binomial,Teste Binomial,categorical,5000,0.01363955899978464
+cooccurrence,Co-ocorrência de Pares,categorical,5000,0.016468352999709168
+lof_categorical,LOF Categórico,categorical,5000,0.08632417499984513
+zscore,Z-Score,numeric,10000,0.007804297999882692
+iqr,IQR (Tukey),numeric,10000,0.014367531000061717
+mad,Modified Z-Score (MAD),numeric,10000,0.009149021999746765
+mahalanobis,Distância de Mahalanobis,numeric,10000,0.013298823999775777
+knn,KNN Distance,numeric,10000,0.5379142520000642
+lof,LOF,numeric,10000,0.24564575299973512
+isolation_forest,Isolation Forest,numeric,10000,0.5331999350000842
+percentile_fence,Percentile Fence,numeric,10000,0.011871937999785587
+frequency,Frequência Relativa,categorical,10000,0.013701453000066977
+entropy,Entropia por Linha,categorical,10000,0.029227938000076392
+chi_square,Qui-Quadrado,categorical,10000,0.05816356099967379
+binomial,Teste Binomial,categorical,10000,0.014754526000160695
+cooccurrence,Co-ocorrência de Pares,categorical,10000,0.02870629299968641
+lof_categorical,LOF Categórico,categorical,10000,0.2954083409999839
+zscore,Z-Score,numeric,20000,0.016108918999634625
+iqr,IQR (Tukey),numeric,20000,0.027965755999957764
+mad,Modified Z-Score (MAD),numeric,20000,0.017534936999709316
+mahalanobis,Distância de Mahalanobis,numeric,20000,0.025384708999808936
+knn,KNN Distance,numeric,20000,1.6424653740000394
+lof,LOF,numeric,20000,0.6274755539998296
+isolation_forest,Isolation Forest,numeric,20000,0.865789685999971
+percentile_fence,Percentile Fence,numeric,20000,0.027735239999856276
+frequency,Frequência Relativa,categorical,20000,0.028048424999724375
+entropy,Entropia por Linha,categorical,20000,0.06205201600005239
+chi_square,Qui-Quadrado,categorical,20000,0.13126798600023903
+binomial,Teste Binomial,categorical,20000,0.043788102000235085
+cooccurrence,Co-ocorrência de Pares,categorical,20000,0.09280038599990803
+lof_categorical,LOF Categórico,categorical,20000,1.0048930180000752
